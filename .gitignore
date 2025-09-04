@@ -1,0 +1,22 @@
+# PyCharm project files
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
